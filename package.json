@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
     "author": "JaRon McPherson",
+  "description": "No thanks, I'm bad at these",
+  "keywords": ["freecodecamp","learning","is","fun"],
+  "license": "to drive",
+  "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
